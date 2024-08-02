@@ -12,4 +12,3 @@ match xop :
         print(xnum1 / xnum2)
     case "-" :
         print(xnum1 - xnum2)
-# مخترع آرش بهادری
